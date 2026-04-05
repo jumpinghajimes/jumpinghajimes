@@ -3,7 +3,7 @@
 <!--
 **jumpinghajimes/jumpinghajimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![image alt](https://github.com/jumpinghajimes/jumpinghajimes/blob/78e02422dd14e14b4e10833ca8383c30c0c3cdf2/8fdfe44b8ee9dc0f156e3b36109cb3d7.jpg
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
